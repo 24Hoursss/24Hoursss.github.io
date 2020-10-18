@@ -1,6 +1,6 @@
-# Hello Word
+# Hello World
 This is my first github page, and the first time to learn how to edit the website.
 
 ## Social
-Wechat [image](https://github.com/24Hoursss/24Hoursss.github.io/blob/gh-pages/image/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20201018222321.jpg)
+Wechat ![image](https://github.com/24Hoursss/24Hoursss.github.io/blob/gh-pages/image/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20201018222321.jpg)
             
