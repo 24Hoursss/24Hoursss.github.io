@@ -52,9 +52,9 @@
 
 `code`
 
-(```)
+```
   code
-(```)
+```
 
 
 [数学公式](https://blog.csdn.net/katherine_hsr/article/details/79179622)
