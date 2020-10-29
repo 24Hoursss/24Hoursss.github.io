@@ -1,0 +1,159 @@
+.button1 {
+    background-color: #448EF6;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    font-size: 16px;
+    border-radius: 3px;
+}
+.button2{
+    background-color: #393E46;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    font-size: 16px;
+    border-radius: 3px;
+}
+.button3{
+    background-color: #28A745;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    font-size: 16px;
+    border-radius: 3px;
+}
+.button4{
+    background-color: #DC3545;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    font-size: 16px;
+    border-radius: 3px;
+}
+.button5{
+    background-color: #FFC107;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    font-size: 16px;
+    border-radius: 3px;
+}
+.button6{
+    background-color: #17A2B8;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    font-size: 16px;
+    border-radius: 3px;
+}
+.button7{
+    background-color: #f2f2f5;
+    border: none;
+    color: blcak;
+    padding: 15px 32px;
+    text-align: center;
+    font-size: 16px;
+    border-radius: 3px;
+}
+.button8{
+    background-color: #222831;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    font-size: 16px;
+    border-radius: 3px;
+}
+.button9 {
+    background-color: white;
+    color: #448EF6;
+    padding: 15px 32px;
+    text-align: center;
+    font-size: 16px;
+    border-radius: 3px;
+    border: 2px solid #448EF6;
+}
+.button10{
+    background-color: white;
+    color:#393E46 ;
+    padding: 15px 32px;
+    text-align: center;
+    font-size: 16px;
+    border-radius: 3px;
+    border: 2px solid #393E46;
+}
+.button11{
+    background-color: white;
+    color: #28A745;
+    padding: 15px 32px;
+    text-align: center;
+    font-size: 16px;
+    border-radius: 3px;
+    border: 2px solid #28A745;
+}
+.button12{
+    background-color: white;
+    color: #DC3545;
+    padding: 15px 32px;
+    text-align: center;
+    font-size: 16px;
+    border-radius: 3px;
+    border: 2px solid #DC3545;
+}
+.button13{
+    background-color: white;
+    color: #FFC107;
+    padding: 15px 32px;
+    text-align: center;
+    font-size: 16px;
+    border-radius: 3px;
+    border: 2px solid #FFC107;
+}
+.button14{
+    background-color: white;
+    border: none;
+    color: #17A2B8;
+    padding: 15px 32px;
+    text-align: center;
+    font-size: 16px;
+    border-radius: 3px;
+    border: 2px solid #17A2B8;
+}
+.button15{
+    background-color: white;
+    color: black;
+    padding: 15px 32px;
+    text-align: center;
+    font-size: 16px;
+    border-radius: 3px;
+    border: 2px solid #f2f2f5;
+}
+.button16{
+    background-color: white;
+    color: #222831;
+    padding: 15px 32px;
+    text-align: center;
+    font-size: 16px;
+    border-radius: 3px;
+    border: 2px solid #222831;
+}
+p{
+    font-size:16px;
+}
+.title{
+    text-indent:10px;
+    line-height:30px;
+    border-left:3px solid #448EF6;
+}
+.formstyle{
+    border-radius: 3px;
+    font-size:16px;
+    line-height: 50px;
+    padding-left:30px;
+}
